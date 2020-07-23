@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>UIAppFonts</key>
+	<array>
+		<string>Roboto-Black.ttf</string>
+		<string>Roboto-Medium.ttf</string>
+		<string>Roboto-Regular.ttf</string>
+		<string>Roboto-Black.ttf</string>
+	</array>
+	<key>CLIENT_ID</key>
+	<string>895617819187-aj0330lo45dlihi526as83ii2uc9umuu.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.895617819187-aj0330lo45dlihi526as83ii2uc9umuu</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDZhShnwTlTnSE2OQFPFbVFHOfM0IaUnP0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>895617819187</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.ahmedaziz.wave</string>
+	<key>PROJECT_ID</key>
+	<string>wave-558da</string>
+	<key>STORAGE_BUCKET</key>
+	<string>wave-558da.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:895617819187:ios:3f4dbe753b187b9f09f946</string>
+</dict>
+</plist>
